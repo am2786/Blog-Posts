@@ -1,2 +1,2 @@
-# Blog-Posts
+# Data Science Projects
 This repository contains the jupyter notebook for every blog post from my [Daily Data Blog](https://dailydatablog.wordpress.com/).
