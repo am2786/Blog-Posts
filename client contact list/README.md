@@ -1,0 +1,1 @@
+Client contact list data exploration. I just plotted a quick histogram of client contacts per month. The notebook 'Clients.ipynb' contains the code used to make a histogram of the afermentioned histogram. The image 'test.png' is the resultant plot. 'Test.csv' is the data file in csv format. 
